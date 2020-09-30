@@ -1,1 +1,1 @@
-printf("korean serials are the best!")
+printf("Legend of the blue sea is the best serial ever!")
